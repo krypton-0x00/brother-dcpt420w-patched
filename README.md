@@ -16,3 +16,8 @@ This repository contains a patched version of the Brother DCP-T420W printer driv
 ## 🎉 Done!
 Your Brother DCP-T420W printer should now be working on Arch Linux.
 
+
+## NOTE! 
+- Cups Service should be running.
+- Some times it gives errors about the lp group you can manually create it and then create the directories it complaints about.
+
